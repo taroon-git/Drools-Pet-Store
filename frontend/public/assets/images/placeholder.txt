@@ -1,0 +1,39 @@
+# Placeholder Images
+
+This directory contains placeholder images for the Drools Pet Store website.
+
+In a production environment, you would replace these with actual product images, pet photos, and other visual content.
+
+## Image Categories:
+
+### Products
+- Product photos for dog food, cat food, bird food, fish food
+- Product packaging images
+- Lifestyle product shots
+
+### Pets
+- Happy dogs with products
+- Playful cats
+- Colorful birds
+- Beautiful fish
+
+### Store
+- Store exterior and interior
+- Team photos
+- Customer interactions
+
+### Brand
+- Logo variations
+- Brand colors and patterns
+- Marketing materials
+
+## Image Specifications:
+- Format: JPG, PNG, WebP
+- Resolution: 72dpi for web
+- Compression: Optimized for web performance
+- Alt text: Descriptive for accessibility
+
+## Usage:
+Replace placeholder URLs in the code with actual image paths:
+- `/api/placeholder/300/200` → `/assets/images/products/dog-food-1.jpg`
+- `/api/placeholder/600/400` → `/assets/images/hero/store-hero.jpg`
